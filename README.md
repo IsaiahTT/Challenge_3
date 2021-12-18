@@ -13,7 +13,7 @@ The language of this application is Python, used on Jupyter Lab. The libraries u
 
 ## Installation Guide
 
-No additional instalation necessary. All libraries and dependencies are already included in this version of Python.
+No additional installation necessary. All libraries and dependencies are already included in this version of Python.
 
 ---
 
