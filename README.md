@@ -19,7 +19,7 @@ No additional installation necessary. All libraries and dependencies are already
 
 ## Usage
 
-All info is already input and worked on within the Jupyter file. Simply start from the top and go down the page to view relevant data, calculations, analysis, and notes.
+All info is already input and worked on within the Jupyter file. Simply start from the top and go down the page to view relevant data, calculations, analysis, and notes. Most notes are written as Markdown text.
 
 ---
 
